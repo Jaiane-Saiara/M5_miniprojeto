@@ -62,12 +62,6 @@ O site estará disponível em `http://localhost:3000`
 
 ---
 
-## 🔗 Link da API utilizada
-
-[🔗 Repositório da API Consciencia+](https://github.com/seuusuario/consciencia-mais-api)
-
----
-
 ## 📸 Imagens da Interface
 
 ### 💻 Versão Desktop
@@ -79,9 +73,7 @@ O site estará disponível em `http://localhost:3000`
 ---
 
 ## 🌐 Links Importantes
-
-- [🔗 Site Hospedado (Vercel)](https://consciencia-mais.vercel.app)
-- [📢 Postagem no LinkedIn](https://www.linkedin.com/posts/seuperfil)
+- [📢 Postagem no LinkedIn](https://www.linkedin.com/posts/jaiane-saiara_github-jaiane-saiaram5miniprojeto-activity-7348851672875462657-zJ_Y?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEcW5WUBrk8pZRm1T8wL1Xp-rN79mSNiggk)
 
 ---
 
@@ -91,12 +83,4 @@ O site estará disponível em `http://localhost:3000`
 - `nextjs`
 - `saude-mental`
 
----
 
-## 📝 Licença
-
-Este projeto está sob a licença MIT.
-
----
-
-Com ❤️ por [Seu Nome](https://github.com/seuusuario)
